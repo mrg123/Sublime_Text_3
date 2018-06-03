@@ -1,0 +1,13 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"JsFormat"
+	],
+	"soda_classic_tabs": true,
+	"soda_folder_icons": true,
+	"theme": "Soda Light 3.sublime-theme"
+}

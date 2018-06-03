@@ -1,0 +1,11 @@
+{
+	"bootstrapped": true,
+	"color_scheme": "Packages/User/Monokai Soda.tmTheme",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"soda_classic_tabs": true,
+	"soda_folder_icons": true,
+	"theme": "Default.sublime-theme"
+}

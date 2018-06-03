@@ -1,6 +1,7 @@
 {
 	"folder_history":
 	[
+		"/D/git",
 		"/D/git/setup",
 		"/D/git/case/xiong"
 	],
@@ -173,21 +174,12 @@
 			"buffers":
 			[
 				{
-					"file": "/D/git/setup/工作经验/jquery/javascript.js",
+					"file": "/D/git/Sublime_Text_3/.gitignore",
 					"settings":
 					{
-						"buffer_size": 11848,
+						"buffer_size": 54,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/git/Sublime_Text_3/Data/Packages/User/Package Control.sublime-settings",
-					"settings":
-					{
-						"buffer_size": 317,
-						"encoding": "UTF-8",
-						"line_ending": "Unix"
 					}
 				}
 			],
@@ -227,11 +219,15 @@
 			},
 			"expanded_folders":
 			[
+				"/D/git",
+				"/D/git/Sublime_Text_3"
 			],
 			"file_history":
 			[
-				"/D/git/Sublime_Text_3/Data/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
 				"/D/git/setup/工作经验/jquery/javascript.js",
+				"/D/git/Sublime_Text_3/Data/Packages/User/Package Control.sublime-settings",
+				"/D/git/case/xiong/.gitignore",
+				"/D/git/Sublime_Text_3/Data/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
 				"/D/git/setup/工作经验/未分类/phpstorm快捷键.txt",
 				"/D/git/setup/工作经验/jquery/跨域请求.txt",
 				"/D/git/setup/工作经验/jquery/iframe.js",
@@ -240,7 +236,6 @@
 				"/D/git/case/xiong/index.php",
 				"/D/git/setup/工作经验/未分类/javascript.txt",
 				"/D/git/case/xiong/catalog/view/theme/default/template/account/active.tpl",
-				"/D/git/Sublime_Text_3/Data/Packages/User/Package Control.sublime-settings",
 				"/D/git/case/xiong/vqmod/xml/a_vqmod_d_compatibilty_fix_230.xml",
 				"/D/git/case/xiong/php.ini",
 				"/D/git/Sublime_Text_3/Data/Packages/Package Control/Package Control.sublime-settings"
@@ -283,68 +278,37 @@
 				},
 				{
 					"path": "D:\\git\\setup"
+				},
+				{
+					"path": "D:\\git"
 				}
 			],
 			"groups":
 			[
 				{
-					"selected": 1,
+					"selected": 0,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/D/git/setup/工作经验/jquery/javascript.js",
+							"file": "/D/git/Sublime_Text_3/.gitignore",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 11848,
+								"buffer_size": 54,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										388,
-										388
+										52,
+										52
 									]
 								],
 								"settings":
 								{
-									"SL.15.region_keys":
-									[
-									],
-									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/D/git/Sublime_Text_3/Data/Packages/User/Package Control.sublime-settings",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 317,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										219,
-										219
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-									"translate_tabs_to_spaces": false
+									"syntax": "Packages/Git Formats/Git Ignore.sublime-syntax"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -396,7 +360,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-32000,-32000,-1,-1,1009,266,225,1542",
+			"position": "0,0,1,-1,-1,-1,-1,1040,216,256,1391",
 			"project": "",
 			"replace":
 			{

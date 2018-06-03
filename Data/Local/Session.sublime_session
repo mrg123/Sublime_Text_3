@@ -173,15 +173,6 @@
 			},
 			"buffers":
 			[
-				{
-					"file": "/D/git/Sublime_Text_3/.gitignore",
-					"settings":
-					{
-						"buffer_size": 54,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				}
 			],
 			"build_system": "",
 			"build_system_choices":
@@ -224,6 +215,7 @@
 			],
 			"file_history":
 			[
+				"/D/git/Sublime_Text_3/.gitignore",
 				"/D/git/setup/工作经验/jquery/javascript.js",
 				"/D/git/Sublime_Text_3/Data/Packages/User/Package Control.sublime-settings",
 				"/D/git/case/xiong/.gitignore",
@@ -286,37 +278,8 @@
 			"groups":
 			[
 				{
-					"selected": 0,
 					"sheets":
 					[
-						{
-							"buffer": 0,
-							"file": "/D/git/Sublime_Text_3/.gitignore",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 54,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										52,
-										52
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Git Formats/Git Ignore.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						}
 					]
 				}
 			],
@@ -360,7 +323,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-1,-1,-1,-1,1040,216,256,1391",
+			"position": "0,0,1,-32000,-32000,-1,-1,1040,216,256,1391",
 			"project": "",
 			"replace":
 			{

@@ -1,14 +1,15 @@
 {
 	"folder_history":
 	[
+		"/D/git/setup",
 		"/D/git/case/xiong"
 	],
 	"last_version": 3176,
-	"last_window_id": 4,
+	"last_window_id": 9,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 795.0,
+		"new_window_height": 726.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -52,18 +53,28 @@
 			},
 			"file_history":
 			[
+				"/D/git/Sublime_Text_3/Data/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+				"/D/git/setup/工作经验/jquery/javascript.js",
+				"/D/git/setup/工作经验/未分类/phpstorm快捷键.txt",
+				"/D/git/setup/工作经验/jquery/跨域请求.txt",
+				"/D/git/setup/工作经验/jquery/iframe.js",
+				"/D/git/setup/工作经验/jquery/form.js",
+				"/D/git/setup/工作经验/jquery/字符串验证正则匹配.js",
+				"/D/git/case/xiong/index.php",
+				"/D/git/setup/工作经验/未分类/javascript.txt",
+				"/D/git/case/xiong/catalog/view/theme/default/template/account/active.tpl",
+				"/D/git/Sublime_Text_3/Data/Packages/User/Package Control.sublime-settings",
 				"/D/git/case/xiong/vqmod/xml/a_vqmod_d_compatibilty_fix_230.xml",
 				"/D/git/case/xiong/php.ini",
-				"/D/git/Sublime_Text_3/Data/Packages/User/Package Control.sublime-settings",
 				"/D/git/Sublime_Text_3/Data/Packages/Package Control/Package Control.sublime-settings"
 			],
 			"find":
 			{
-				"height": 38.0
+				"height": 27.0
 			},
 			"find_in_files":
 			{
-				"height": 98.0,
+				"height": 104.0,
 				"where_history":
 				[
 				]
@@ -73,6 +84,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"select"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -89,13 +101,17 @@
 			},
 			"incremental_find":
 			{
-				"height": 0.0
+				"height": 27.0
 			},
 			"input":
 			{
 				"height": 0.0
 			},
 			"menu_visible": true,
+			"output.SublimeLinter":
+			{
+				"height": 0.0
+			},
 			"output.find_results":
 			{
 				"height": 0.0
@@ -103,7 +119,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 0.0
+				"height": 50.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -143,7 +159,7 @@
 			{
 			}
 		},
-		"new_window_width": 1074.0
+		"new_window_width": 1260.0
 	},
 	"windows":
 	[
@@ -157,10 +173,11 @@
 			"buffers":
 			[
 				{
-					"file": "/D/git/case/xiong/index.php",
+					"file": "/D/git/setup/工作经验/jquery/javascript.js",
 					"settings":
 					{
-						"buffer_size": 8257,
+						"buffer_size": 11848,
+						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
 				},
@@ -168,7 +185,8 @@
 					"file": "/D/git/Sublime_Text_3/Data/Packages/User/Package Control.sublime-settings",
 					"settings":
 					{
-						"buffer_size": 173,
+						"buffer_size": 317,
+						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					}
 				}
@@ -209,24 +227,31 @@
 			},
 			"expanded_folders":
 			[
-				"/D/git/case/xiong",
-				"/D/git/case/xiong/vqmod",
-				"/D/git/case/xiong/vqmod/xml"
 			],
 			"file_history":
 			[
+				"/D/git/Sublime_Text_3/Data/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+				"/D/git/setup/工作经验/jquery/javascript.js",
+				"/D/git/setup/工作经验/未分类/phpstorm快捷键.txt",
+				"/D/git/setup/工作经验/jquery/跨域请求.txt",
+				"/D/git/setup/工作经验/jquery/iframe.js",
+				"/D/git/setup/工作经验/jquery/form.js",
+				"/D/git/setup/工作经验/jquery/字符串验证正则匹配.js",
+				"/D/git/case/xiong/index.php",
+				"/D/git/setup/工作经验/未分类/javascript.txt",
+				"/D/git/case/xiong/catalog/view/theme/default/template/account/active.tpl",
+				"/D/git/Sublime_Text_3/Data/Packages/User/Package Control.sublime-settings",
 				"/D/git/case/xiong/vqmod/xml/a_vqmod_d_compatibilty_fix_230.xml",
 				"/D/git/case/xiong/php.ini",
-				"/D/git/Sublime_Text_3/Data/Packages/User/Package Control.sublime-settings",
 				"/D/git/Sublime_Text_3/Data/Packages/Package Control/Package Control.sublime-settings"
 			],
 			"find":
 			{
-				"height": 38.0
+				"height": 27.0
 			},
 			"find_in_files":
 			{
-				"height": 98.0,
+				"height": 104.0,
 				"where_history":
 				[
 				]
@@ -236,6 +261,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"select"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -254,6 +280,9 @@
 			[
 				{
 					"path": "D:\\git\\case\\xiong"
+				},
+				{
+					"path": "D:\\git\\setup"
 				}
 			],
 			"groups":
@@ -264,25 +293,29 @@
 					[
 						{
 							"buffer": 0,
-							"file": "/D/git/case/xiong/index.php",
+							"file": "/D/git/setup/工作经验/jquery/javascript.js",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 8257,
+								"buffer_size": 11848,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										220,
-										220
+										388,
+										388
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/PHP/PHP.sublime-syntax",
-									"translate_tabs_to_spaces": false
+									"SL.15.region_keys":
+									[
+									],
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -297,15 +330,15 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 173,
+								"buffer_size": 317,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										0,
-										0
+										219,
+										219
 									]
 								],
 								"settings":
@@ -325,7 +358,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 0.0
+				"height": 27.0
 			},
 			"input":
 			{
@@ -354,16 +387,20 @@
 				]
 			},
 			"menu_visible": true,
+			"output.SublimeLinter":
+			{
+				"height": 0.0
+			},
 			"output.find_results":
 			{
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-32000,-32000,-1,-1,1024,350,171,1440",
+			"position": "0,0,1,-32000,-32000,-1,-1,1009,266,225,1542",
 			"project": "",
 			"replace":
 			{
-				"height": 0.0
+				"height": 50.0
 			},
 			"save_all_on_build": true,
 			"select_file":

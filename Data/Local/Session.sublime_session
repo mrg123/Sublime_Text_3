@@ -1,6 +1,7 @@
 {
 	"folder_history":
 	[
+		"/C/Users/Administrator/Desktop/log",
 		"/D/git",
 		"/D/git/setup",
 		"/D/git/case/xiong"
@@ -173,6 +174,15 @@
 			},
 			"buffers":
 			[
+				{
+					"file": "/C/Users/Administrator/Desktop/log/谷仓oms.txt",
+					"settings":
+					{
+						"buffer_size": 19927,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
 			],
 			"build_system": "",
 			"build_system_choices":
@@ -210,11 +220,13 @@
 			},
 			"expanded_folders":
 			[
-				"/D/git",
-				"/D/git/Sublime_Text_3"
+				"/C/Users/Administrator/Desktop/log"
 			],
 			"file_history":
 			[
+				"/D/git/Sublime_Text_3/Data/Packages/MarkdownEditing/README.md",
+				"/D/git/Sublime_Text_3/Data/Packages/MarkdownEditing/Default (Windows).sublime-keymap",
+				"/D/git/Sublime_Text_3/changelog.txt",
 				"/D/git/Sublime_Text_3/.gitignore",
 				"/D/git/setup/工作经验/jquery/javascript.js",
 				"/D/git/Sublime_Text_3/Data/Packages/User/Package Control.sublime-settings",
@@ -273,13 +285,47 @@
 				},
 				{
 					"path": "D:\\git"
+				},
+				{
+					"path": "C:\\Users\\Administrator\\Desktop\\log"
 				}
 			],
 			"groups":
 			[
 				{
+					"selected": 0,
 					"sheets":
 					[
+						{
+							"buffer": 0,
+							"file": "/C/Users/Administrator/Desktop/log/谷仓oms.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 19927,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										19627,
+										19627
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 12963.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
 					]
 				}
 			],
@@ -323,7 +369,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-32000,-32000,-1,-1,1040,216,256,1391",
+			"position": "0,0,1,-1,-1,-1,-1,1038,743,117,1918",
 			"project": "",
 			"replace":
 			{
@@ -365,7 +411,7 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 264.0,
+			"side_bar_width": 232.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{

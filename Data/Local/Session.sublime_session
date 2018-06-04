@@ -1,6 +1,7 @@
 {
 	"folder_history":
 	[
+		"/D/git"
 	],
 	"last_version": 3176,
 	"last_window_id": 1,
@@ -19,6 +20,24 @@
 			},
 			"buffers":
 			[
+				{
+					"file": "/D/git/case/xiong/vqmod/xml/toggle_email.xml",
+					"settings":
+					{
+						"buffer_size": 23654,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/D/git/case/xiong/catalog/view/theme/default/template/account/active.tpl",
+					"settings":
+					{
+						"buffer_size": 2099,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
 			],
 			"build_system": "",
 			"build_system_choices":
@@ -50,18 +69,36 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
+			"expanded_folders":
+			[
+				"/D/git",
+				"/D/git/case",
+				"/D/git/case/xiong",
+				"/D/git/case/xiong/catalog",
+				"/D/git/case/xiong/catalog/controller",
+				"/D/git/case/xiong/vqmod",
+				"/D/git/case/xiong/vqmod/vqcache"
+			],
 			"file_history":
 			[
+				"/C/Users/Administrator.USER-20160407JP/Desktop/CASE/2018-06-01-toggle_email邮件激活功能/jquery-ui-1.12.1.custom/demo.html",
+				"/C/Users/Administrator.USER-20160407JP/Desktop/CASE/2018-06-01-toggle_email邮件激活功能/jquery-ui-1.12.1.custom/jquery-ui.css",
+				"/D/git/case/xiong/catalog/controller/information/information.php",
+				"/D/git/case/xiong/catalog/controller/account/account.php",
+				"/D/git/case/pandora/vendor/encore/laravel-admin/src/Layout/Content.php",
+				"/C/Users/Administrator.USER-20160407JP/Desktop/2018-06-02hosts",
+				"/D/git/case/xiong/vqmod/vqcache/vq2-catalog_controller_account_register.php"
 			],
 			"find":
 			{
-				"height": 0.0
+				"height": 29.0
 			},
 			"find_in_files":
 			{
-				"height": 0.0,
+				"height": 107.0,
 				"where_history":
 				[
+					"xiong"
 				]
 			},
 			"find_state":
@@ -69,6 +106,13 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"sprint",
+					"sprint_r",
+					"');\n",
+					"$data['text_jump'] = $this->language->get('text_jump');",
+					"');\n",
+					"$this->request->get['code'];",
+					"code"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -83,17 +127,86 @@
 				"whole_word": false,
 				"wrap": true
 			},
+			"folders":
+			[
+				{
+					"path": "D:\\git"
+				}
+			],
 			"groups":
 			[
 				{
+					"selected": 1,
 					"sheets":
 					[
+						{
+							"buffer": 0,
+							"file": "/D/git/case/xiong/vqmod/xml/toggle_email.xml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 23654,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										10968,
+										10968
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/XML/XML.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 5872.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/D/git/case/xiong/catalog/view/theme/default/template/account/active.tpl",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2099,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1018,
+										1018
+									]
+								],
+								"settings":
+								{
+									"SL.20.region_keys":
+									[
+									],
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 420.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
 					]
 				}
 			],
 			"incremental_find":
 			{
-				"height": 0.0
+				"height": 29.0
 			},
 			"input":
 			{
@@ -131,11 +244,11 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,2,-32000,-32000,-1,-1,1004,661,134,1668",
+			"position": "0,0,1,-1,-1,-1,-1,1004,314,134,1668",
 			"project": "",
 			"replace":
 			{
-				"height": 0.0
+				"height": 54.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -173,7 +286,7 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 244.0,
+			"side_bar_width": 341.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{

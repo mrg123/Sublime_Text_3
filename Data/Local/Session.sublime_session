@@ -173,6 +173,15 @@
 			},
 			"buffers":
 			[
+				{
+					"file": "/D/git/test/.gitignore",
+					"settings":
+					{
+						"buffer_size": 21,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
 			],
 			"build_system": "",
 			"build_system_choices":
@@ -211,14 +220,17 @@
 			"expanded_folders":
 			[
 				"/D/git",
-				"/D/git/Sublime_Text_3"
+				"/D/git/case",
+				"/D/git/case/xiong",
+				"/D/git/case/xiong/image",
+				"/D/git/case/xiong/image/cache"
 			],
 			"file_history":
 			[
+				"/D/git/case/xiong/.gitignore",
 				"/D/git/Sublime_Text_3/.gitignore",
 				"/D/git/setup/工作经验/jquery/javascript.js",
 				"/D/git/Sublime_Text_3/Data/Packages/User/Package Control.sublime-settings",
-				"/D/git/case/xiong/.gitignore",
 				"/D/git/Sublime_Text_3/Data/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
 				"/D/git/setup/工作经验/未分类/phpstorm快捷键.txt",
 				"/D/git/setup/工作经验/jquery/跨域请求.txt",
@@ -278,8 +290,37 @@
 			"groups":
 			[
 				{
+					"selected": 0,
 					"sheets":
 					[
+						{
+							"buffer": 0,
+							"file": "/D/git/test/.gitignore",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 21,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										21,
+										21
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Git Formats/Git Ignore.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
 					]
 				}
 			],
@@ -323,7 +364,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-32000,-32000,-1,-1,1040,216,256,1391",
+			"position": "0,0,1,-32000,-32000,-1,-1,950,253,166,1428",
 			"project": "",
 			"replace":
 			{

@@ -1,5 +1,6 @@
 {
 	"bootstrapped": true,
+	"git_binary": "D:\\Program Files\\Git\\cmd\\git.exe",
 	"in_process_packages":
 	[
 	],
@@ -7,10 +8,11 @@
 	[
 		"HTML-CSS-JS Prettify",
 		"JsFormat",
+		"Markdown Extended",
+		"MarkdownEditing",
 		"Package Control",
 		"SublimeLinter"
 	],
-	"git_binary": "D:\\Program Files\\Git\\cmd\\git.exe",
 	"soda_classic_tabs": true,
 	"soda_folder_icons": true,
 	"theme": "Soda Light 3.sublime-theme"

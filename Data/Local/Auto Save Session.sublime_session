@@ -1,0 +1,507 @@
+{
+	"folder_history":
+	[
+		"/C/Users/Administrator/Desktop/log",
+		"/D/git",
+		"/D/git/setup",
+		"/D/git/case/xiong"
+	],
+	"last_version": 3176,
+	"last_window_id": 9,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 726.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 155.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/D/git/Sublime_Text_3/Data/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+				"/D/git/setup/工作经验/jquery/javascript.js",
+				"/D/git/setup/工作经验/未分类/phpstorm快捷键.txt",
+				"/D/git/setup/工作经验/jquery/跨域请求.txt",
+				"/D/git/setup/工作经验/jquery/iframe.js",
+				"/D/git/setup/工作经验/jquery/form.js",
+				"/D/git/setup/工作经验/jquery/字符串验证正则匹配.js",
+				"/D/git/case/xiong/index.php",
+				"/D/git/setup/工作经验/未分类/javascript.txt",
+				"/D/git/case/xiong/catalog/view/theme/default/template/account/active.tpl",
+				"/D/git/Sublime_Text_3/Data/Packages/User/Package Control.sublime-settings",
+				"/D/git/case/xiong/vqmod/xml/a_vqmod_d_compatibilty_fix_230.xml",
+				"/D/git/case/xiong/php.ini",
+				"/D/git/Sublime_Text_3/Data/Packages/Package Control/Package Control.sublime-settings"
+			],
+			"find":
+			{
+				"height": 27.0
+			},
+			"find_in_files":
+			{
+				"height": 104.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"select"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.SublimeLinter":
+			{
+				"height": 0.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 50.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 264.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1260.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/C/Users/Administrator/Desktop/log/谷仓oms.txt",
+					"settings":
+					{
+						"buffer_size": 19927,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/git/setup/工作经验/jquery/jquery基础知识",
+					"settings":
+					{
+						"buffer_size": 484,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/git/setup/工作经验/jquery/javascript.js",
+					"settings":
+					{
+						"buffer_size": 12187,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 155.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/D/git/setup",
+				"/D/git/setup/工作经验",
+				"/D/git/setup/工作经验/jquery"
+			],
+			"file_history":
+			[
+				"/D/git/Sublime_Text_3/Data/Packages/MarkdownEditing/README.md",
+				"/D/git/Sublime_Text_3/Data/Packages/MarkdownEditing/Default (Windows).sublime-keymap",
+				"/D/git/Sublime_Text_3/changelog.txt",
+				"/D/git/Sublime_Text_3/.gitignore",
+				"/D/git/setup/工作经验/jquery/javascript.js",
+				"/D/git/Sublime_Text_3/Data/Packages/User/Package Control.sublime-settings",
+				"/D/git/case/xiong/.gitignore",
+				"/D/git/Sublime_Text_3/Data/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+				"/D/git/setup/工作经验/未分类/phpstorm快捷键.txt",
+				"/D/git/setup/工作经验/jquery/跨域请求.txt",
+				"/D/git/setup/工作经验/jquery/iframe.js",
+				"/D/git/setup/工作经验/jquery/form.js",
+				"/D/git/setup/工作经验/jquery/字符串验证正则匹配.js",
+				"/D/git/case/xiong/index.php",
+				"/D/git/setup/工作经验/未分类/javascript.txt",
+				"/D/git/case/xiong/catalog/view/theme/default/template/account/active.tpl",
+				"/D/git/case/xiong/vqmod/xml/a_vqmod_d_compatibilty_fix_230.xml",
+				"/D/git/case/xiong/php.ini",
+				"/D/git/Sublime_Text_3/Data/Packages/Package Control/Package Control.sublime-settings"
+			],
+			"find":
+			{
+				"height": 27.0
+			},
+			"find_in_files":
+			{
+				"height": 104.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"select"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "D:\\git\\case\\xiong"
+				},
+				{
+					"path": "D:\\git\\setup"
+				},
+				{
+					"path": "D:\\git"
+				},
+				{
+					"path": "C:\\Users\\Administrator\\Desktop\\log"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 2,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/Users/Administrator/Desktop/log/谷仓oms.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 19927,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										7300,
+										7300
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 4914.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/D/git/setup/工作经验/jquery/jquery基础知识",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 484,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										483,
+										483
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/D/git/setup/工作经验/jquery/javascript.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 12187,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										11852,
+										11852
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 7137.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.SublimeLinter":
+			{
+				"height": 0.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,1,-32000,-32000,-1,-1,1038,645,117,1918",
+			"project": "",
+			"replace":
+			{
+				"height": 50.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 232.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

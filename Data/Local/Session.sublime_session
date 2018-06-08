@@ -1,13 +1,174 @@
 {
 	"folder_history":
 	[
-		"/D/git"
+		"/D/git/jquery-validation",
+		"/D/work/前端/omsv2",
+		"/C/Users/Administrator/Desktop/log",
+		"/D/git",
+		"/D/git/setup",
+		"/D/git/case/xiong"
 	],
 	"last_version": 3176,
-	"last_window_id": 1,
+	"last_window_id": 10,
 	"log_indexing": false,
 	"settings":
 	{
+		"new_window_height": 863.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 155.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/D/git/Sublime_Text_3/Data/Packages/MarkdownEditing/README.md",
+				"/D/git/Sublime_Text_3/Data/Packages/MarkdownEditing/Default (Windows).sublime-keymap",
+				"/D/git/Sublime_Text_3/changelog.txt",
+				"/D/git/Sublime_Text_3/.gitignore",
+				"/D/git/setup/工作经验/jquery/javascript.js",
+				"/D/git/Sublime_Text_3/Data/Packages/User/Package Control.sublime-settings",
+				"/D/git/case/xiong/.gitignore",
+				"/D/git/Sublime_Text_3/Data/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+				"/D/git/setup/工作经验/未分类/phpstorm快捷键.txt",
+				"/D/git/setup/工作经验/jquery/跨域请求.txt",
+				"/D/git/setup/工作经验/jquery/iframe.js",
+				"/D/git/setup/工作经验/jquery/form.js",
+				"/D/git/setup/工作经验/jquery/字符串验证正则匹配.js",
+				"/D/git/case/xiong/index.php",
+				"/D/git/setup/工作经验/未分类/javascript.txt",
+				"/D/git/case/xiong/catalog/view/theme/default/template/account/active.tpl",
+				"/D/git/case/xiong/vqmod/xml/a_vqmod_d_compatibilty_fix_230.xml",
+				"/D/git/case/xiong/php.ini",
+				"/D/git/Sublime_Text_3/Data/Packages/Package Control/Package Control.sublime-settings"
+			],
+			"find":
+			{
+				"height": 29.0
+			},
+			"find_in_files":
+			{
+				"height": 104.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"select"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 29.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.SublimeLinter":
+			{
+				"height": 0.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 54.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 232.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1257.0
 	},
 	"windows":
 	[
@@ -21,21 +182,76 @@
 			"buffers":
 			[
 				{
-					"file": "/D/git/case/xiong/vqmod/xml/toggle_email.xml",
+					"file": "/D/work/svn/branck/oms/test20180418/src/public/index.php",
 					"settings":
 					{
-						"buffer_size": 23654,
+						"buffer_size": 5452,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/D/git/case/xiong/catalog/view/theme/default/template/account/active.tpl",
+					"file": "/D/git/test/test.php",
 					"settings":
 					{
-						"buffer_size": 2099,
+						"buffer_size": 1183,
 						"encoding": "UTF-8",
-						"line_ending": "Unix"
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/git/setup/工作经验/jquery/javascript.js",
+					"settings":
+					{
+						"buffer_size": 12187,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/Administrator/Desktop/log/谷仓oms.txt",
+					"settings":
+					{
+						"buffer_size": 19927,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/Administrator/Desktop/test1",
+					"settings":
+					{
+						"buffer_size": 15212,
+						"encoding": "UTF-8",
+						"line_ending": "Windows",
+						"name": "<!-- 显示列 -->"
+					}
+				},
+				{
+					"file": "/D/git/setup/工作经验/jquery/jquery基础知识",
+					"settings":
+					{
+						"buffer_size": 484,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/work/前端/omsv2/warehouse201.html",
+					"settings":
+					{
+						"buffer_size": 11992,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/Administrator/Desktop/创建入库单.html",
+					"settings":
+					{
+						"buffer_size": 3605,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
 					}
 				}
 			],
@@ -50,12 +266,16 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"install",
+						"Package Control: Install Package"
+					]
 				],
 				"width": 0.0
 			},
 			"console":
 			{
-				"height": 0.0,
+				"height": 155.0,
 				"history":
 				[
 				]
@@ -72,33 +292,45 @@
 			"expanded_folders":
 			[
 				"/D/git",
-				"/D/git/case",
-				"/D/git/case/xiong",
-				"/D/git/case/xiong/catalog",
-				"/D/git/case/xiong/catalog/controller",
-				"/D/git/case/xiong/vqmod",
-				"/D/git/case/xiong/vqmod/vqcache"
+				"/D/git/test"
 			],
 			"file_history":
 			[
-				"/C/Users/Administrator.USER-20160407JP/Desktop/CASE/2018-06-01-toggle_email邮件激活功能/jquery-ui-1.12.1.custom/demo.html",
-				"/C/Users/Administrator.USER-20160407JP/Desktop/CASE/2018-06-01-toggle_email邮件激活功能/jquery-ui-1.12.1.custom/jquery-ui.css",
-				"/D/git/case/xiong/catalog/controller/information/information.php",
-				"/D/git/case/xiong/catalog/controller/account/account.php",
-				"/D/git/case/pandora/vendor/encore/laravel-admin/src/Layout/Content.php",
-				"/C/Users/Administrator.USER-20160407JP/Desktop/2018-06-02hosts",
-				"/D/git/case/xiong/vqmod/vqcache/vq2-catalog_controller_account_register.php"
+				"/D/git/Sublime_Text_3/Data/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc.defaults.json",
+				"/C/Users/Administrator/Desktop/创建入库单",
+				"/C/Users/Administrator/Desktop/GDPR-邮箱验证插件-DOUBLE OPT-IN/vqmod/xml/toggle_email.xml",
+				"/D/work/svn/branck/oms/test20180418/src/data/tpl_c/81c708029447e277e73f2f77a90e97ac70ee78af.file.zt_asn_create_new_2.tpl.php",
+				"/D/work/svn/branck/oms/test20180418/src/application/modules/receiving/controllers/ReceivingController.php.bak",
+				"/D/work/svn/branck/oms/test20180418/src/public/index.php",
+				"/D/git/Sublime_Text_3/Data/Packages/MarkdownEditing/README.md",
+				"/D/git/Sublime_Text_3/Data/Packages/MarkdownEditing/Default (Windows).sublime-keymap",
+				"/D/git/Sublime_Text_3/changelog.txt",
+				"/D/git/Sublime_Text_3/.gitignore",
+				"/D/git/setup/工作经验/jquery/javascript.js",
+				"/D/git/Sublime_Text_3/Data/Packages/User/Package Control.sublime-settings",
+				"/D/git/case/xiong/.gitignore",
+				"/D/git/Sublime_Text_3/Data/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+				"/D/git/setup/工作经验/未分类/phpstorm快捷键.txt",
+				"/D/git/setup/工作经验/jquery/跨域请求.txt",
+				"/D/git/setup/工作经验/jquery/iframe.js",
+				"/D/git/setup/工作经验/jquery/form.js",
+				"/D/git/setup/工作经验/jquery/字符串验证正则匹配.js",
+				"/D/git/case/xiong/index.php",
+				"/D/git/setup/工作经验/未分类/javascript.txt",
+				"/D/git/case/xiong/catalog/view/theme/default/template/account/active.tpl",
+				"/D/git/case/xiong/vqmod/xml/a_vqmod_d_compatibilty_fix_230.xml",
+				"/D/git/case/xiong/php.ini",
+				"/D/git/Sublime_Text_3/Data/Packages/Package Control/Package Control.sublime-settings"
 			],
 			"find":
 			{
-				"height": 29.0
+				"height": 41.0
 			},
 			"find_in_files":
 			{
-				"height": 107.0,
+				"height": 104.0,
 				"where_history":
 				[
-					"xiong"
 				]
 			},
 			"find_state":
@@ -106,13 +338,9 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"sprint",
-					"sprint_r",
-					"');\n",
-					"$data['text_jump'] = $this->language->get('text_jump');",
-					"');\n",
-					"$this->request->get['code'];",
-					"code"
+					"laydate",
+					"时间",
+					"select"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -130,75 +358,270 @@
 			"folders":
 			[
 				{
+					"path": "D:\\git\\case\\xiong"
+				},
+				{
+					"path": "D:\\git\\setup"
+				},
+				{
 					"path": "D:\\git"
+				},
+				{
+					"path": "C:\\Users\\Administrator\\Desktop\\log"
+				},
+				{
+					"path": "D:\\work\\前端\\omsv2"
+				},
+				{
+					"path": "D:\\git\\jquery-validation"
 				}
 			],
 			"groups":
 			[
 				{
-					"selected": 1,
+					"selected": 0,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/D/git/case/xiong/vqmod/xml/toggle_email.xml",
+							"file": "/D/work/svn/branck/oms/test20180418/src/public/index.php",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 23654,
+								"buffer_size": 5452,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										10968,
-										10968
+										3158,
+										3158
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/XML/XML.sublime-syntax",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 5872.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/D/git/case/xiong/catalog/view/theme/default/template/account/active.tpl",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 2099,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										1018,
-										1018
-									]
-								],
-								"settings":
-								{
-									"SL.20.region_keys":
+									"SL.40.region_keys":
 									[
 									],
-									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
 									"tab_size": 4,
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 420.0,
+								"translation.y": 1560.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/D/git/test/test.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1183,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										720,
+										720
+									]
+								],
+								"settings":
+								{
+									"SL.50.region_keys":
+									[
+									],
+									"syntax": "Packages/PHP/PHP.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 240.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/D/git/setup/工作经验/jquery/javascript.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 12187,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										12184,
+										11853
+									]
+								],
+								"settings":
+								{
+									"SL.17.region_keys":
+									[
+									],
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 8109.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/C/Users/Administrator/Desktop/log/谷仓oms.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 19927,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										7300,
+										7300
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 5462.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/C/Users/Administrator/Desktop/test1",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 15212,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										11,
+										20
+									]
+								],
+								"settings":
+								{
+									"auto_name": "<!-- 显示列 -->",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 7084.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/D/git/setup/工作经验/jquery/jquery基础知识",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 484,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										483,
+										483
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/D/work/前端/omsv2/warehouse201.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 11992,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										10956,
+										11604
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 3290.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/C/Users/Administrator/Desktop/创建入库单.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3605,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										507,
+										507
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
 							"type": "text"
 						}
 					]
@@ -244,7 +667,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-1,-1,-1,-1,1004,314,134,1668",
+			"position": "0,0,1,-32000,-32000,-1,-1,1065,571,94,1844",
 			"project": "",
 			"replace":
 			{
@@ -286,7 +709,7 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 341.0,
+			"side_bar_width": 205.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{

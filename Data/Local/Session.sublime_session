@@ -181,79 +181,6 @@
 			},
 			"buffers":
 			[
-				{
-					"file": "/D/work/svn/branck/oms/test20180418/src/public/index.php",
-					"settings":
-					{
-						"buffer_size": 5452,
-						"encoding": "UTF-8",
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/D/git/test/test.php",
-					"settings":
-					{
-						"buffer_size": 1183,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/git/setup/工作经验/jquery/javascript.js",
-					"settings":
-					{
-						"buffer_size": 12187,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/C/Users/Administrator/Desktop/log/谷仓oms.txt",
-					"settings":
-					{
-						"buffer_size": 19927,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/C/Users/Administrator/Desktop/test1",
-					"settings":
-					{
-						"buffer_size": 15212,
-						"encoding": "UTF-8",
-						"line_ending": "Windows",
-						"name": "<!-- 显示列 -->"
-					}
-				},
-				{
-					"file": "/D/git/setup/工作经验/jquery/jquery基础知识",
-					"settings":
-					{
-						"buffer_size": 484,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/work/前端/omsv2/warehouse201.html",
-					"settings":
-					{
-						"buffer_size": 11992,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/C/Users/Administrator/Desktop/创建入库单.html",
-					"settings":
-					{
-						"buffer_size": 3605,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				}
 			],
 			"build_system": "",
 			"build_system_choices":
@@ -296,25 +223,84 @@
 			],
 			"file_history":
 			[
+				"/D/git/test/example.php",
+				"/D/git/test/test.php",
+				"/D/git/setup/工作经验/php/php设计模式.txt",
+				"/D/git/setup/工作经验/php/Redis、Memecache这两者有什么区别.txt",
+				"/D/git/setup/工作经验/php/SERVER.php",
+				"/D/git/setup/工作经验/php/获取文件扩展名.php",
+				"/D/git/setup/工作经验/php/递归循环输出某目录和子目录.php",
+				"/D/git/setup/工作经验/未分类/phpstorm快捷键.txt",
+				"/C/Users/Administrator/Desktop/log/本地测试.txt",
+				"/C/Users/Administrator/Desktop/log/过程记录/物流优选方式.txt",
+				"/C/Users/Administrator/Desktop/log/谷仓oms.txt",
+				"/D/git/Sublime_Text_3/Data/Packages/MarkdownEditing/README.md",
+				"/C/Users/Administrator/Desktop/fab_new_product.txt",
+				"/D/git/setup/工作经验/php/php7新特性.txt",
+				"/C/Users/Administrator/Desktop/fab_err.txt",
+				"/C/Users/Administrator/Desktop/fab_product.txt",
+				"/D/git/setup/工作经验/php/http状态码.txt",
+				"/C/Users/Administrator/Desktop/fe1.txt",
+				"/C/Users/Administrator/Desktop/fe2.txt",
+				"/C/Users/Administrator/Desktop/fe3.txt",
+				"/D/work/svn/branck/oms/test20180418/src/public/fe.txt",
+				"/C/Users/Administrator/Desktop/oms_response_createReturnOrder_data_2018-06-11.log",
+				"/C/Users/Administrator/Desktop/log/过程记录/导入订单.txt",
+				"/C/Users/Administrator/Desktop/v.txt",
+				"/C/Users/Administrator/Desktop/log/备份文件/订单管理/草稿记录.txt",
+				"/C/Users/Administrator/Desktop/log/备份文件/订单管理/订单草稿.txt",
+				"/C/Users/Administrator/Desktop/导入订单的主方法.php",
+				"/C/Users/Administrator/Desktop/log/过程记录/创建订单.txt",
+				"/D/work/svn/branck/oms/test20180418/src/public/b.txt",
+				"/C/Users/Administrator/Desktop/fileData.txt",
+				"/C/Users/Administrator/Desktop/入库单主方法修改.txt",
+				"/C/Users/Administrator/Desktop/log/备份文件/订单管理/OrderProcess.php-rev11135.svn000.tmp.php",
+				"/C/Users/Administrator/Desktop/OrderProcess.php-rev11135.svn000.tmp.php",
+				"/D/work/svn/branck/oms/test20180418/src/public/row.txt",
+				"/D/work/svn/branck/oms/test20180418/src/public/row2.txt",
+				"/D/work/svn/branck/oms/test20180418/src/public/row3.txt",
+				"/D/git/Sublime_Text_3/Data/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+				"/D/git/setup/工作经验/jquery/javascript.js",
+				"/C/Users/Administrator/Desktop/trial_try.txt",
+				"/C/Users/Administrator/Desktop/新建文件夹/DBMQ/lock/callWms",
+				"/C/Users/Administrator/Desktop/新建文件夹/DBMQ/log/2018-06-09consumer_running_log.log",
+				"/C/Users/Administrator/Desktop/新建文件夹/__notify_err.log",
+				"/C/Users/Administrator/Desktop/新建文件夹/Ec_Error.log",
+				"/C/Users/Administrator/Desktop/新建文件夹/FmsApiRequest_err.log",
+				"/C/Users/Administrator/Desktop/新建文件夹/oms_response_createReturnOrder_data_2018-06-09.log",
+				"/C/Users/Administrator/Desktop/新建文件夹/oms_response_markAbnormalOrders_data_2018-06-09.log",
+				"/C/Users/Administrator/Desktop/新建文件夹/oms_response_notify_data_2018-06-09.log",
+				"/C/Users/Administrator/Desktop/创建入库单.html",
+				"/D/work/svn/branck/oms/test20180418/src/data/log/CREATE-ORDER_err.log",
+				"/D/work/svn/branck/oms/test20180418/src/application/configs/wms.ini",
+				"/D/work/svn/branck/wms/gaiban20180418/src/application/configs/oms.ini",
+				"/C/Users/Administrator/Desktop/log/备份文件/入库单/zt_receiving_index_new.tpl-rev11258.svn000.tmp.tpl",
+				"/C/Users/Administrator/Desktop/入库单草稿",
+				"/D/work/svn/branck/oms/test20180418/src/public/index.php",
+				"/C/Users/Administrator/Desktop/zt_receiving_index_new.tpl-rev11258.svn000.tmp.tpl",
+				"/D/git/setup/工作经验/jquery/字符串验证正则匹配.js",
+				"/C/Users/Administrator/Desktop/log/备份文件/入库单/zt_asn_create_new_2.tpl-revBASE.svn000.tmp.tpl",
+				"/D/work/前端/omsv2/warehouse201.html",
+				"/D/work/svn/branck/wms/gaiban20180418/src/public/index.php",
+				"/D/work/svn/branck/oms/test20180418/src/data/cache/warehouse/Ec---warehouse_simple",
+				"/D/work/svn/branck/oms/test20180418/src/data/log/auto_2016-10-12.txt",
+				"/C/Users/Administrator/Desktop/ReceivingController.php",
+				"/C/Users/Administrator/Desktop/log/备份文件/order_create_fba1.tpl",
+				"/C/Users/Administrator/Desktop/test1",
+				"/D/git/setup/工作经验/jquery/jquery基础知识",
 				"/D/git/Sublime_Text_3/Data/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc.defaults.json",
 				"/C/Users/Administrator/Desktop/创建入库单",
 				"/C/Users/Administrator/Desktop/GDPR-邮箱验证插件-DOUBLE OPT-IN/vqmod/xml/toggle_email.xml",
 				"/D/work/svn/branck/oms/test20180418/src/data/tpl_c/81c708029447e277e73f2f77a90e97ac70ee78af.file.zt_asn_create_new_2.tpl.php",
 				"/D/work/svn/branck/oms/test20180418/src/application/modules/receiving/controllers/ReceivingController.php.bak",
-				"/D/work/svn/branck/oms/test20180418/src/public/index.php",
-				"/D/git/Sublime_Text_3/Data/Packages/MarkdownEditing/README.md",
 				"/D/git/Sublime_Text_3/Data/Packages/MarkdownEditing/Default (Windows).sublime-keymap",
 				"/D/git/Sublime_Text_3/changelog.txt",
 				"/D/git/Sublime_Text_3/.gitignore",
-				"/D/git/setup/工作经验/jquery/javascript.js",
 				"/D/git/Sublime_Text_3/Data/Packages/User/Package Control.sublime-settings",
 				"/D/git/case/xiong/.gitignore",
-				"/D/git/Sublime_Text_3/Data/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
-				"/D/git/setup/工作经验/未分类/phpstorm快捷键.txt",
 				"/D/git/setup/工作经验/jquery/跨域请求.txt",
 				"/D/git/setup/工作经验/jquery/iframe.js",
 				"/D/git/setup/工作经验/jquery/form.js",
-				"/D/git/setup/工作经验/jquery/字符串验证正则匹配.js",
 				"/D/git/case/xiong/index.php",
 				"/D/git/setup/工作经验/未分类/javascript.txt",
 				"/D/git/case/xiong/catalog/view/theme/default/template/account/active.tpl",
@@ -338,6 +324,34 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"memcache",
+					"));\n",
+					"订单状态",
+					"截取",
+					"替换",
+					"时效",
+					"receiving_type",
+					"_type",
+					"=3;",
+					"receiving_transfer_status",
+					"/\n",
+					"download-template",
+					"/download-template/",
+					"/receiving/receiving/download-template/",
+					"receiving_type",
+					"id=\"receiving_type\"",
+					"customer_type",
+					"<{t}>quantity<{/t}>",
+					"statuss",
+					"selectAddress",
+					"statuss",
+					"regionInit",
+					"receiving_transfer_status",
+					"printSKU",
+					"package_type",
+					"id=\"package_type\"",
+					"is_change_label",
+					"换标",
 					"laydate",
 					"时间",
 					"select"
@@ -353,7 +367,7 @@
 				"show_context": true,
 				"use_buffer2": true,
 				"whole_word": false,
-				"wrap": true
+				"wrap": false
 			},
 			"folders":
 			[
@@ -379,251 +393,8 @@
 			"groups":
 			[
 				{
-					"selected": 0,
 					"sheets":
 					[
-						{
-							"buffer": 0,
-							"file": "/D/work/svn/branck/oms/test20180418/src/public/index.php",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 5452,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										3158,
-										3158
-									]
-								],
-								"settings":
-								{
-									"SL.40.region_keys":
-									[
-									],
-									"syntax": "Packages/PHP/PHP.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 1560.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/D/git/test/test.php",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1183,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										720,
-										720
-									]
-								],
-								"settings":
-								{
-									"SL.50.region_keys":
-									[
-									],
-									"syntax": "Packages/PHP/PHP.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 240.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/D/git/setup/工作经验/jquery/javascript.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 12187,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										12184,
-										11853
-									]
-								],
-								"settings":
-								{
-									"SL.17.region_keys":
-									[
-									],
-									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 8109.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 7,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/C/Users/Administrator/Desktop/log/谷仓oms.txt",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 19927,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										7300,
-										7300
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Text/Plain text.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 5462.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 4,
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"file": "/C/Users/Administrator/Desktop/test1",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 15212,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										11,
-										20
-									]
-								],
-								"settings":
-								{
-									"auto_name": "<!-- 显示列 -->",
-									"syntax": "Packages/Text/Plain text.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 7084.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 3,
-							"type": "text"
-						},
-						{
-							"buffer": 5,
-							"file": "/D/git/setup/工作经验/jquery/jquery基础知识",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 484,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										483,
-										483
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Text/Plain text.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 6,
-							"type": "text"
-						},
-						{
-							"buffer": 6,
-							"file": "/D/work/前端/omsv2/warehouse201.html",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 11992,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										10956,
-										11604
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/HTML/HTML.sublime-syntax",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 3290.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 5,
-							"type": "text"
-						},
-						{
-							"buffer": 7,
-							"file": "/C/Users/Administrator/Desktop/创建入库单.html",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 3605,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										507,
-										507
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/HTML/HTML.sublime-syntax",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						}
 					]
 				}
 			],
@@ -667,7 +438,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-32000,-32000,-1,-1,1065,571,94,1844",
+			"position": "0,0,1,-32000,-32000,-1,-1,1030,457,140,1901",
 			"project": "",
 			"replace":
 			{
@@ -709,7 +480,7 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 205.0,
+			"side_bar_width": 258.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
